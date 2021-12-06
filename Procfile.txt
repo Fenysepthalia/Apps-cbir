@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run aplikasi_tugas_besar_cbir.py
